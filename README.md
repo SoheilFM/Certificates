@@ -22,15 +22,16 @@ certificates/
 │   ├── Certificate2.pdf
 │   └── ...
 ├── DataCamp/
-├── Skill-Tracks/
-│   ├── Certificate1.pdf
-│   ├── Certificate2.pdf
-│   └── ...
-├── Career Track/
-│   ├── Certificate1.pdf
-│   ├── Certificate2.pdf
-│   └── ...
+│   ├── Skill-Tracks/
+│   │   ├── Certificate1.pdf
+│   │   ├── Certificate2.pdf
+│   │   └── ...
+│   ├── Career-Tracks/
+│   │   ├── Certificate1.pdf
+│   │   ├── Certificate2.pdf
+│   │   └── ...
 README.md
+
 ```
 
 ## 🔍 How to View  
