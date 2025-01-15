@@ -44,15 +44,15 @@ README.md
 
 I'm passionate about data science and constantly seeking to expand my knowledge. These certifications represent milestones in my learning journey and showcase the skills I've acquired.  
 
-- **[LinkedIn Profile](#)**  
-- **[Personal Website/Portfolio](#)**  
+- **[LinkedIn Profile](#https://www.linkedin.com/in/soheil-faridmohammadzadegan/)**  
+- **[Personal Website/Portfolio](#https://www.soheilfm.ir)**  
 
 ## 🤝 Connect  
 
 Feel free to reach out if you'd like to discuss projects, collaborations, or opportunities!  
 
 📧 Email: [Soheil.faridmohammadzadegan@gmail.com.com](mailto:Soheil.faridmohammadzadegan@gmail.com)  
-🌐 GitHub: [SoheilFM](https://github.com/SoheilFM)  
+🌐 GitHub: [SoheilFM](https://github.com/SoheilFM) 
 
 --- 
 
