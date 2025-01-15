@@ -22,6 +22,11 @@ certificates/
 │   ├── Certificate2.pdf
 │   └── ...
 ├── DataCamp/
+├── Skill-Tracks/
+│   ├── Certificate1.pdf
+│   ├── Certificate2.pdf
+│   └── ...
+├── Career Track/
 │   ├── Certificate1.pdf
 │   ├── Certificate2.pdf
 │   └── ...
@@ -46,6 +51,6 @@ I'm passionate about data science and constantly seeking to expand my knowledge.
 Feel free to reach out if you'd like to discuss projects, collaborations, or opportunities!  
 
 📧 Email: [Soheil.faridmohammadzadegan@gmail.com.com](mailto:Soheil.faridmohammadzadegan@gmail.com)  
-🌐 GitHub: [SoheilFM](https://github.com/YourGitHubUsername](https://github.com/SoheilFM))  
+🌐 GitHub: [SoheilFM]((https://github.com/SoheilFM))  
 
 --- 
