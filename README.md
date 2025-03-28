@@ -9,7 +9,8 @@ Welcome to my Certificates Repository! 🎓 Here, I showcase the certificates I 
 1. **365 Data Science**  
    - Comprehensive programs covering data science fundamentals, machine learning, and advanced topics.
 2. **DataCamp**  
-   - Hands-on courses and practical skill-building for data science, Python, R, SQL, and more.  
+   - Hands-on courses and practical skill-building for data science, Python, R, SQL, and more.
+3. **1 Million Prompters**
 
 ## 📂 Repository Structure  
 
